@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eLBirador
+- 👋 Hi, I’m Gerald, known as @eLBirador here in Github
 - 👀 I’m interested in Everything Fullstack
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on GIS stuff
