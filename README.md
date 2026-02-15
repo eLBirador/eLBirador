@@ -1,15 +1,19 @@
 # Howdy mate!, 👋 Gerald here!
 
-- 👋 Hi, I’m Gerald, known as @eLBirador here in Github
+- 👋 Also known as @eLBirador here in Github
 - 👀 I’m interested in Everything Fullstack
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on GIS stuff
-- 📫 How to reach me? emal me at gerald@yahaay.com
+- 📫 How to reach me? email me at gerald@yahaay.com
 
 ## Current Projects
 
--  **[GIS.ph](https://gis.ph)** - the AI that actually does things
-- 🚇 **[vue-barangay-search](https://github.com/YahaayLabs/vue-barangay-search)** - Vue component for search Barangays in the Philippines
+- 🌐 **[GIS.ph](https://gis.ph)** - GIS.ph API
+- 🔭 **[webmaps.app](https://demo.webmaps.app)** - On demand web mapping platform
+- 📦 **[gis.ph-sdk-js](https://github.com/YahaayLabs/gis.ph-sdk-js)** - Official Javascript/Typescript SDK for GIS.ph API
+- 📦 **[gis.ph-sdk-php](https://github.com/YahaayLabs/gis.ph-sdk-php)** - Official PHP (Laravel) SDK for GIS.ph API
+- 📦 **[laravel-barangay-search](https://github.com/YahaayLabs/laravel-barangay-search)** - Laravel/Liveware component for searching Barangays in the Philippines  
+- 📦 **[vue-barangay-search](https://github.com/YahaayLabs/vue-barangay-search)** - Vue component for search Barangays in the Philippines
 
 ## Connect
 
